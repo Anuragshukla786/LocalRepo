@@ -18,10 +18,8 @@ public class InputInJava {
         System.out.println("Enter a double number:");
         c=sc.nextDouble();
         System.out.println("Your double value is:"+c);
-
-
         
-
+        sc.close();
     }
     
 }
