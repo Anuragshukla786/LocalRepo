@@ -3,6 +3,7 @@ public class Palindrome {
     public static void main(String[] args) {
         String s1;
         String s2="";
+
         Scanner sc=new Scanner(System.in);
         System.out.println("Name of Palindrome Of String:");
         s1=sc.nextLine();
